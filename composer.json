@@ -1,6 +1,6 @@
 {
-  "name": "yoomoney/yookassa-sdk-php",
-  "description": "This is a developer tool for integration with YooMoney.",
+  "name": "goldcarrot/yookassa-sdk-php",
+  "description": "This is a developer tool for integration with YooMoney. (Fork)",
   "type": "library",
   "license": "MIT",
   "homepage": "https://yookassa.ru/developers/api",
